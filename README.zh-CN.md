@@ -97,13 +97,11 @@ git clone https://github.com/intelland/final-state-writing \
   ~/.agents/skills/final-state-writing
 ```
 
-显式调用：
+手动调用：
 
 ```text
 $final-state-writing
 ```
-
-当任务与 Skill description 匹配时，Codex 也可能自动选择它。
 
 ## 参考来源
 

@@ -85,13 +85,11 @@ git clone https://github.com/intelland/final-state-writing \
   ~/.agents/skills/final-state-writing
 ```
 
-Invoke it explicitly with:
+Invoke it manually with:
 
 ```text
 $final-state-writing
 ```
-
-Codex may also choose the Skill implicitly when a task matches its description.
 
 ## Reference
 

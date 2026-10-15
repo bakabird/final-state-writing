@@ -1,10 +1,7 @@
 ---
 name: final-state-writing
-description: >
-  Use when revising or finalizing prose after user feedback or corrections,
-  especially when the draft mentions rejected alternatives, previous mistakes,
-  unnecessary disclaimers, or explains why omitted material is absent. Do not
-  use for ordinary first-draft writing with no correction history.
+description: Remove correction residue from final prose.
+disable-model-invocation: true
 ---
 
 # Final-State Writing
